@@ -1,0 +1,26 @@
+## basic (seed=2025, n=10, hex) 
+0x5faa0cf2
+0x2fd50679
+0x17ea833c
+0xd1b49cb1
+0xcd2e1e13
+0x4eb489e2
+0xa75ac4f1
+0x9b4f2566
+0x31fcba33
+0xadef99eb
+ 
+## weyl (seed=2025, n=10, hex) 
+0x4f6d0a63
+0x900efd99
+0x66e652fa
+0x1cbf4a60
+0x8969e7bd
+0xe1423c0a
+0x55b27533
+0xea246aff
+0xdf65fb79
+0xe962f15f
+ 
+## weyl key (seed=2025, 16 bytes) 
+630a6d4f99fd0e90fa52e666604abf1c

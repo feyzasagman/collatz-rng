@@ -41,4 +41,7 @@ Collatz dizisi birçok seed için kısa sürede 1-4-2-1 döngüsüne iner; bu y�
 
 Bu yüzden V1’de Weyl sayaç + mixing kullanılır.
 
+## Akış şeması
+![Flowchart](docs/flowchart.png)
+
 

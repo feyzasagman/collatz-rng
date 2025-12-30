@@ -45,3 +45,12 @@ Bu yüzden V1’de Weyl sayaç + mixing kullanılır.
 ![Flowchart](docs/flowchart.png)
 
 
+jpeg_test_out/
+test_images/
+
+
+## JPEG Quantization (Opsiyonel)
+- Script: `src/qtable_from_rng.py`, `src/jpeg_benchmark.py`
+- Sonuç CSV: `examples/jpeg_benchmark.csv`
+- Not: `jpeg_test_out/` ve `test_images/` repoya eklenmez.
+

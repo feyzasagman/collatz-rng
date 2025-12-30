@@ -205,5 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+8860a1498293fbbb661bf5dcd1ea4e73c27ccd2a
 jpeg_test_out/
 test_images/
